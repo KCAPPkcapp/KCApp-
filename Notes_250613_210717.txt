@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KCApp - Plateforme KCA</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>KCApp</h1>
+    <p>La plateforme officielle pour les artistes et agences virtuels du KCA (K-pop Cover Artists)</p>
+  </header>
+
+  <section class="intro">
+    <h2>Bienvenue sur KCApp</h2>
+    <p>KCApp est une plateforme communautaire dédiée aux idols et agences virtuels. Connecte-toi, publie tes activités, découvre d'autres artistes, et fais briller ton univers.</p>
+  </section>
+
+  <section class="features">
+    <h2>Fonctionnalités (version bêta)</h2>
+    <ul>
+      <li>✨ Profils artistes & agences</li>
+      <li>📰 Fil d’actualité communautaire</li>
+      <li>📁 Galerie de projets & MVs</li>
+      <li>🎤 Préparation de comeback & fanbase</li>
+      <li>📣 Annonces et recrutement</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 KCApp. Projet communautaire non-commercial.</p>
+  </footer>
+</body>
+</html>
